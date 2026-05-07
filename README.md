@@ -172,7 +172,7 @@ JWT_SECRET=mysecretkey
 
 🌐 LIVE DEMO
 
-Live URL:
+Live URL:https://frontend-production-43ad.up.railway.app/
 
 https://your-app.up.railway.app
 
