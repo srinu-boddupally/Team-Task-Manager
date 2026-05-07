@@ -180,10 +180,10 @@ https://your-app.up.railway.app
 
 👨‍💻 AUTHOR
 
-Ganesh Burri
+Srinu Boddupally
 
 GitHub:
-https://github.com/ganeshburri
+https://github.com/srinu-boddupally
 
 ==================================================
 
